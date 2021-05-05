@@ -1,0 +1,6 @@
+use_frameworks!
+target 'OAuthLibrary_Tests' do
+  pod 'OAuthLibrary', :path => '../'
+  
+  
+end
